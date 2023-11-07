@@ -7,15 +7,47 @@
     box-sizing: border-box;
 }
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 1.1em; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
 body {
     background-color: hsl(212, 45%, 89%);
-    width: 350px;
+    width: 100%;
+
+}
+
+main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
-    font-size: 1.5em;
+    font-size: 15px;
     font-family: 'Outfit', sans-serif; 
+    text-align: center;
+
+    width: 350px;
+    border-radius: .5em;
+
+    background-color: hsl(0, 0%, 100%);
+    padding: 1em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container img {
+    width: 325;
+    border-radius: .5em;
+}
+
+.titulo {
+    padding: .5em 0 .25em 0;
+}
+
+.paragrafo {
+    padding: .5em 0 .25em 0;
 }
