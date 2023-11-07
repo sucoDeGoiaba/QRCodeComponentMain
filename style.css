@@ -50,9 +50,11 @@ main {
 
 .titulo {
     padding: 1em 0 .25em 0;
+    font-weight: 700;
 }
 
 .paragrafo {
     padding: .25em 0 1em 0;
     color: hsl(220, 15%, 55%);
+    font-weight: 400;
 }
