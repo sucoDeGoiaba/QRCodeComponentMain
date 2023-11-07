@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/basic-html-and-css-card-layout-x1ft12VTaQ](https://www.frontendmentor.io/solutions/basic-html-and-css-card-layout-x1ft12VTaQ)
 - Live Site URL: [https://sucodegoiaba.github.io/QRCodeComponentMain/](https://sucodegoiaba.github.io/QRCodeComponentMain/)
 
 ## My process
